@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #FFFFFF;
+}
+
+/*@media (prefers-color-scheme: dark) {*/
+/*    body {*/
+/*        background-color: #1A202C;*/
+/*    }*/
+
+/*    header {*/
+/*        background-color: #2D3748 !important;*/
+/*        color: #FFFFFF !important;*/
+/*    }*/
+
+/*    h1, h2, h3, h4, h5, h6, p, a, strong {*/
+/*        color: #FFFFFF !important;*/
+/*    }*/
+
+/*    #card {*/
+/*        background-color: #2D3748 !important;*/
+/*    }*/
+
+/*    #input-form {*/
+/*        background-color: #2D3748 !important;*/
+
+/*        input {*/
+/*            background-color: #2D3748 !important;*/
+/*            color: #FFFFFF !important;*/
+/*        }*/
+/*    }*/
+
+/*    #right-arrow-icon {*/
+/*        color: #ea580c !important;*/
+/*    }*/
+
+/*    #game-icon {*/
+/*        color: #ea580c !important;*/
+/*    }*/
+
+/*}*/
+
